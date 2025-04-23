@@ -18,10 +18,3 @@ This collection include 16 images of various crafts created by me and my family 
 
 While this is primarily for personal use if you feel inspired by what you see please feel free to reach out to me at rorydawn96@gmail.com and I will try to pass along any pattern information we still have.
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
-
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents 
-
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
-
