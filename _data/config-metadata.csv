@@ -13,3 +13,10 @@ type,Type,
 format,Format,
 rights,Rights,
 rightsstatement,Rights Statement,,true
+crafter,Crafter,
+craft_materials,Craft Materials,
+craft_techniques,Craft Techniques,
+creation_date,Creation Date,
+pattern_info,Pattern Info,
+difficulty_rating,Difficulty Rating,
+filesize,File Size
